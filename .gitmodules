@@ -1,0 +1,4 @@
+[submodule "sm"]
+	path = sm
+	url = https://github.com/windbell0711/Vatrix-vbe-sm.git
+	branch = main
